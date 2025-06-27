@@ -40,7 +40,7 @@ A cutting-edge, memory-augmented AI chatbot that leverages advanced LLMs, vector
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/aryankr-404/Memory-aware-AI-chatbot.git
    cd Memory-aware-AI-chatbot
    ```
 2. **Create and activate a virtual environment:**
